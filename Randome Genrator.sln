@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Randome Genrator", "Randome Genrator.csproj", "{953EB0EE-37A0-48EE-A6EA-04232C5609C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{953EB0EE-37A0-48EE-A6EA-04232C5609C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{953EB0EE-37A0-48EE-A6EA-04232C5609C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{953EB0EE-37A0-48EE-A6EA-04232C5609C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{953EB0EE-37A0-48EE-A6EA-04232C5609C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF590673-15A2-4349-BA4E-3D972188731E}
+	EndGlobalSection
+EndGlobal

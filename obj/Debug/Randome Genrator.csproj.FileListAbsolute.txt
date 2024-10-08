@@ -1,0 +1,20 @@
+C:\Users\VICTUS\source\repos\Randome Genrator\bin\Debug\Randome Genrator.exe.config
+C:\Users\VICTUS\source\repos\Randome Genrator\bin\Debug\Randome Genrator.exe
+C:\Users\VICTUS\source\repos\Randome Genrator\bin\Debug\Randome Genrator.pdb
+C:\Users\VICTUS\source\repos\Randome Genrator\obj\Debug\Randome Genrator.csproj.AssemblyReference.cache
+C:\Users\VICTUS\source\repos\Randome Genrator\obj\Debug\Randome_Genrator.Form1.resources
+C:\Users\VICTUS\source\repos\Randome Genrator\obj\Debug\Randome_Genrator.Properties.Resources.resources
+C:\Users\VICTUS\source\repos\Randome Genrator\obj\Debug\Randome Genrator.csproj.GenerateResource.cache
+C:\Users\VICTUS\source\repos\Randome Genrator\obj\Debug\Randome Genrator.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\source\repos\Randome Genrator\obj\Debug\Randome Genrator.exe
+C:\Users\VICTUS\source\repos\Randome Genrator\obj\Debug\Randome Genrator.pdb
+C:\Users\ahmad\OneDrive\Desktop\My Projects\Project Course 14\Randome Genrator\bin\Debug\Randome Genrator.exe.config
+C:\Users\ahmad\OneDrive\Desktop\My Projects\Project Course 14\Randome Genrator\bin\Debug\Randome Genrator.exe
+C:\Users\ahmad\OneDrive\Desktop\My Projects\Project Course 14\Randome Genrator\bin\Debug\Randome Genrator.pdb
+C:\Users\ahmad\OneDrive\Desktop\My Projects\Project Course 14\Randome Genrator\obj\Debug\Randome Genrator.csproj.AssemblyReference.cache
+C:\Users\ahmad\OneDrive\Desktop\My Projects\Project Course 14\Randome Genrator\obj\Debug\Randome_Genrator.Form1.resources
+C:\Users\ahmad\OneDrive\Desktop\My Projects\Project Course 14\Randome Genrator\obj\Debug\Randome_Genrator.Properties.Resources.resources
+C:\Users\ahmad\OneDrive\Desktop\My Projects\Project Course 14\Randome Genrator\obj\Debug\Randome Genrator.csproj.GenerateResource.cache
+C:\Users\ahmad\OneDrive\Desktop\My Projects\Project Course 14\Randome Genrator\obj\Debug\Randome Genrator.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\OneDrive\Desktop\My Projects\Project Course 14\Randome Genrator\obj\Debug\Randome Genrator.exe
+C:\Users\ahmad\OneDrive\Desktop\My Projects\Project Course 14\Randome Genrator\obj\Debug\Randome Genrator.pdb
